@@ -1,0 +1,1 @@
+This is the readme for assignment 2. In this GIT we have hello.py.
